@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://salman:Salman-78hunza@cluster0-shard-00-00.u2bwo.mongodb.net:27017,cluster0-shard-00-01.u2bwo.mongodb.net:27017,cluster0-shard-00-02.u2bwo.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-8cod31-shard-0&authSource=admin&retryWrites=true",
+  "jwtSecret": "sl_myJwtSecret"
+}
